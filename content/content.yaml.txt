@@ -1,0 +1,6 @@
+- path: "ShumatsuNoHibi"
+  title: "Shumatsu No Hibi"
+  description: "Notas relacionadas con el mundo de Shumatsu No Hibi"
+  template: "index.md" # (opcional) Si quieres usar un archivo específico como plantilla
+  ignore: ["private", "templates"]  # Carpetas o archivos a ignorar
+  layout: "page"  # Puedes usar "post" o "page" dependiendo del tipo de página
